@@ -1,5 +1,6 @@
 # MemuHelper Library  
- Thư viện này dùng để hỗ trợ các thao tác với máy ảo Memu Play thuận tiện và dễ dàng hơn;  
+ Thư viện này dùng để hỗ trợ các thao tác với máy ảo Memu Play, được dựa trên các api có sẵn của memuconsole.exe, giúp thao tác thuận tiện và dễ dàng hơn với công việc, xem thêm ngay tại đây:  
+ https://www.memuplay.com/blog/memucommand-reference-manual.html  
 # Example 
 ### Set Path Memu Play & ADB
 ```js
@@ -52,9 +53,6 @@ await MemuControl.StopAllVMs();
 ```js
 await MemuControl.SortVMs();
 ```
-# See more  
-https://www.memuplay.com/blog/memucommand-reference-manual.html  
-
 # Contact with me  
 - Facebook : www.facebook.com/quachvinhky  
 - Gmail: quachvinhky2000@gmail.com  
