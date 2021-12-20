@@ -58,5 +58,3 @@ https://www.memuplay.com/blog/memucommand-reference-manual.html
 # Contact with me  
 - Facebook : www.facebook.com/quachvinhky  
 - Gmail: quachvinhky2000@gmail.com  
-# Note
-Em mong tìm được đồng đội theo lập trình backend khu vực Sóc Trăng, Bạc Liêu, Cần Thơ
